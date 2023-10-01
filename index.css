@@ -1,0 +1,104 @@
+body {
+    /* background-color: rgb(225, 197, 252); */
+    background-image: linear-gradient(to bottom right, rgb(225, 197, 252), rgb(255, 181, 193) );
+}
+
+h1 {
+    text-align: center;
+    color: rgb(95, 95, 207);
+}
+
+#lover {
+    width: 250px; 
+    max-width: 400px;
+    border: ridge 6px rgb(247, 145, 162);
+}
+
+#folklore {
+    max-width: 400px;
+    width: 170px; 
+    border: ridge 6px rgb(111, 192, 145);
+}
+
+#midnights {
+    max-width: 400px;
+    width: 152px; 
+    border: ridge 6px rgb(106, 108, 224);
+}
+
+#rep {
+    max-width: 400px;
+    width: 200px; 
+    border: ridge 6px rgb(206, 40, 40);
+}
+
+#the-man {
+    max-width: 400px;
+    width: 166px; 
+    border: ridge 6px rgb(247, 145, 162);
+}
+
+#taylor-era-img {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+h2 {
+    text-decoration: underline;
+    color: rgb(95, 95, 207);
+    text-align: center;
+}
+
+#stolen-owned {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    
+}
+
+th {
+    border: 3px ridge rgb(193, 170, 235);
+}
+td {
+    border: dotted 3px rgb(146, 161, 228)
+}
+
+#quotes-section {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    text-align: center;
+}
+
+#taylor-web-link {
+    max-width: 400px;
+    width: 220px;
+    border: ridge 6px rgb(206, 40, 40);
+}
+
+#folklore-tay {
+    max-width: 400px;
+    width: 206px;
+    border: ridge 6px rgb(238, 146, 241);
+}
+
+#tay {
+    max-width: 400px;
+    width: 155px;
+    border: ridge 6px rgb(238, 146, 241);
+}
+
+#link-img {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+#link-img > div {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(37, 37, 155);
+}
+
+
